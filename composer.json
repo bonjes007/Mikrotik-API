@@ -1,0 +1,8 @@
+{
+    "name": "bonjes007/Mikrotik-API",
+    "description": "Mikrotik API 2024",
+    "require": {
+        "php": ">=8.2",
+        "another-vendor/package": "1.*"
+    }
+}
